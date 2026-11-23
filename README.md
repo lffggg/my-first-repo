@@ -1,6 +1,8 @@
 # my-first-repo
 
-Minecraft Java 版折腾与学习笔记仓库，同时也是练习 git / GitHub 流程的地方。
+在 Android 手机上跑 Minecraft Java 版的折腾记录，以及排查笔记。涉及 **MobileGlues** 渲染器、**Adreno / Mali** 驱动兼容性、**MC 26.3** 地形着色器编译失败这类问题；同时也是练习 git / GitHub 流程的地方。
+
+> Keywords: Minecraft Java on Android · MobileGlues · Adreno 710 · Mali · GLSL / shader compile error · Vulkan 1.1 · git basics
 
 ## 这个仓库存什么
 
