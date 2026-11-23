@@ -5,6 +5,8 @@ Minecraft Java 版折腾与学习笔记仓库，同时也是练习 git / GitHub 
 ## 这个仓库存什么
 
 - `git-basics.md` — git 最小可用流程笔记（暂存区 / 工作区 / 本地库 / 远程库）
+- `notes/` — 真实问题排查记录
+  - [MC 26.3 地形着色器编译失败排查笔记](notes/mobileglues-mc263-shader-issue.md)
 - `.gitignore` — 通用忽略规则（系统文件、密钥、日志、依赖产物）
 - `LICENSE` — MIT，可自由使用与修改
 
